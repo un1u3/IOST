@@ -1,5 +1,5 @@
 # IOST - Initiative for Open Source Technology 🚀
-<p align="left"><b><iost>IOST</iost></b></p>
+<p align="left"><b><iost></iost></b></p>
 <h3 align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=$+IOST,++Initiative for Open Source, ++ Technology&font=Fira%20Code&center=true&width=500&height=60&color=f75c7e&vCenter=true&pause=10&size=20" />
 </h3>
