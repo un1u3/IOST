@@ -7,7 +7,7 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 
 ### **Unique Shrestha**
 - **Role/Contribution**:Maintainer
-- **GitHub**: [UniqueShrestha](https://github.com/un1u3)
+- **GitHub**: [Unique Shrestha](https://github.com/un1u3)
 - **Batch/Year**: BIT 1st Semester
 - **Joined**: December 2024
 
