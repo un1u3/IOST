@@ -12,12 +12,11 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - **Joined**: December 2024
 
 
---Format--
-### **[Contributor Name]**
-- **Role/Contribution**: [Contributor’s Role or Contribution]
-- **GitHub**: [Contributor’s GitHub Link]
-- **Batch/Year**: [Contributor’s Batch/Year]
-- **Joined**: [Month Year]
+### **Arun Khanal**
+- **Role/Contribution**:Maintainer
+- **GitHub**: [Arun Khanal] (https://github.com/arunislive)
+- **Batch/Year**: BIT 1st Semester
+- **Joined**: December 2024
 
 
 
