@@ -14,7 +14,7 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 
 ### **Arun Khanal**
 - **Role/Contribution**:Maintainer
-- **GitHub**: [Arun Khanal] (https://github.com/arunislive)
+- **GitHub**: [Arun Khanal](https://github.com/arunislive)
 - **Batch/Year**: BIT 1st Semester
 - **Joined**: December 2024
 
