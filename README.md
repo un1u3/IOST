@@ -48,17 +48,17 @@ We are a group of passionate students from ASCOL committed to:
 ## Our Projects 💻
 
 ### Current Projects
-1. **Project Name**
+1. **IOST Official Website**
    - Description
-   - Technologies Used
-   - Current Status
+   - HTML, CSS, ReactJS
+   - Upcomming Projects
 
 2. **Project Name**
    - Description
    - Technologies Used
    - Current Status
 
-*Interested in proposing a new project? Check our guidelines!*
+*Interested in proposing a new project? contact us at iost.ascol@gmail.com !*
 
 ## How to Contribute 🤝
 

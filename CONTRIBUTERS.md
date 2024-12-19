@@ -18,6 +18,20 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - **Batch/Year**: BIT 1st Semester
 - **Joined**: December 2024
 
+### **Sabda Chalise**
+- **Role/Contribution**:Maintainer
+- **GitHub**: [Sabda Chalise](https://github.com/sabdachalise101)
+- **Batch/Year**: BIT 1st Semester
+- **Joined**: December 2024
+
+### *Krishna Neupane*
+- *Role/Contribution*:Maintainer
+- *GitHub*: 
+- *Batch/Year*: Senior Software Developer (7+ Years Experience)
+- *Joined*: December 2024
+
+
+
 
 
 ---
