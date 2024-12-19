@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <conio.h>
+
+int main() {
+    float P=400, T=2, R=5.5;
+    float SI = (P*T*R)/100;
+    printf("\n The Simple Interest is %.3f.",SI);
+    printf("\n Sabda Chalise");
+    getch();
+    return 0;
+}
