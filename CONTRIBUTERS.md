@@ -26,12 +26,7 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 
 
 
-### **Sabda Chalise**
-- **Role/Contribution**:Maintainer
-- **GitHub**: [Sabda Chalise](https://github.com/sabdachalise101)
-- **Batch/Year**: BIT 1st Semester
-- **Joined**: December 2024
-- 
+
 
 ---
 
