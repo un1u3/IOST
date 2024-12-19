@@ -1,0 +1,15 @@
+/*Write a program that defines a variable and then increments and decrements the value of the variable using the ++ (increment) and – (decrement) operators.
+Print the value of the variable after each operation to the console*/
+#include <stdio.h>
+#include<conio.h>
+int main() {
+    int num = 10;
+    printf("Original value: %d\n", num);
+    num++;
+    printf("After increment: %d\n", num);
+    num--;
+    printf("After decrement: %d\n", num);
+
+    printf("Sabda Chalise\n");
+    return 0;
+}

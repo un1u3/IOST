@@ -1,0 +1,34 @@
+//Write a program to swap two variables’ values with and without using third variables.
+#include <stdio.h>
+#include <conio.h>
+
+int main() {
+    int a, b, temp;
+
+    clrscr();
+
+    printf("Enter the value of a: ");
+    scanf("%d", &a);
+    printf("Enter the value of b: ");
+    scanf("%d", &b);
+
+    printf("\nBefore swapping: a = %d, b = %d", a, b);
+
+    // without using a third variable
+    a = a + b;
+    b = a - b;
+    a = a - b;
+
+    printf("\nAfter swapping without third variable: a = %d, b = %d", a, b);
+
+    //  using a third variable
+    temp = a;
+    a = b;
+    b = temp;
+
+    printf("\nAfter swapping with third variable: a = %d, b = %d", a, b);
+    printf("\nSabda Chalise");
+    getch();
+    return 0;
+}
+
