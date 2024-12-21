@@ -1,16 +1,12 @@
-//Write a program to check odd or even number using (a) modulus operator (b) using bitwise operator (c) without using bitwise and modulus operator (d) using conditional operator.
+// Write a program to check odd or even number using (a) modulus operator (b) using bitwise operator (c) without using bitwise and modulus operator (d) using conditional operator.
 
 #include <stdio.h>
-#include <conio.h>
 
-int main() {
+int main()
+{
     int num;
-
-    clrscr();
-
     printf("Enter a number: ");
     scanf("%d", &num);
-
     // (a) Using modulus operator
     if (num % 2 == 0)
         printf("\nThe number is even (using modulus operator).");
@@ -30,8 +26,9 @@ int main() {
         printf("\nThe number is odd (without bitwise and modulus operator).");
 
     // (d) Using conditional operator
-    (num % 2 == 0) ? printf("\nThe number is even (using conditional operator).") : printf("\nThe number is odd (using conditional operator).");
-    printf("Sabda Chalise");
-    getch();
+    (num % 2 == 0) ? printf("\nThe number is even (using conditional operator).")
+                   : printf("\nThe number is odd (using conditional operator).");
+    printf("\n --[Your name]--");
+
     return 0;
 }

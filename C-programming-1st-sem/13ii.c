@@ -1,7 +1,8 @@
-//Demonstrate the difference between scanf() & gets().
+// Demonstrate the difference between scanf() & gets().
 #include <stdio.h>
-#include<conio.h>
-int main() {
+#include <conio.h>
+int main()
+{
     char name1[50], name2[50];
 
     printf("Enter your name using scanf(): ");
@@ -9,10 +10,10 @@ int main() {
     printf("Name entered using scanf(): %s\n", name1);
 
     printf("Enter your name using gets(): ");
-    getchar();  
-    gets(name2); 
+    getchar();
+    gets(name2);
     printf("Name entered using gets(): %s\n", name2);
-    printf("\nSabda Chalise);
+    printf("\n --[Your name]--");
     getch();
     return 0;
 }

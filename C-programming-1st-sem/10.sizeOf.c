@@ -1,7 +1,8 @@
-//⦁	Write a program that declares variables of different data types) int, float, char etc.) and prints their sizes using the size of operator.
+// ⦁	Write a program that declares variables of different data types) int, float, char etc.) and prints their sizes using the size of operator.
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int intVar;
     float floatVar;
     char charVar;
@@ -15,6 +16,6 @@ int main() {
     printf("Size of double: %zu bytes\n", sizeof(doubleVar));
     printf("Size of long int: %zu bytes\n", sizeof(longIntVar));
     printf("Size of short int: %zu bytes\n", sizeof(shortIntVar));
-    printf("\nSabda Chalise");
+    printf("\n --[Your name]--");
     return 0;
 }
