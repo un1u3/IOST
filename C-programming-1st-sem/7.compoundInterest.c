@@ -1,9 +1,10 @@
-//Write a program to calculate simple and compound interest.
+// Write a program to calculate simple and compound interest.
+
 #include <stdio.h>
 #include <math.h>
-#include<stdio.h>
 
-int main() {
+int main()
+{
     float principal, rate, time, simpleInterest, compoundInterest;
 
     printf("Enter principal amount: ");
@@ -18,7 +19,8 @@ int main() {
 
     printf("Simple Interest: %.2f\n", simpleInterest);
     printf("Compound Interest: %.2f\n", compoundInterest);
-    printf("\nSabda Chalise");
+    printf("\n --[Your name]--");
+
     getch();
     return 0;
 }

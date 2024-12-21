@@ -41,9 +41,8 @@
 // let studentName = "Ram";
 // console.log(t);
 
-//?constant => read only
-
-//fixed value
+//? constant => read only
+//  fixed value
 // const PI = 3.1415;
 // const GRAVITY = 9.8;
 // const x = 25;
