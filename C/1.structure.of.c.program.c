@@ -1,4 +1,3 @@
-//? A simple program to print hello world using printf function.
 //? This program is to learn about the syntax of C programming
 
 // the above given text is an example of comment in C and is called block comments.
