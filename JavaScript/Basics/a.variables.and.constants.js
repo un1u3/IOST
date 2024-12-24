@@ -17,10 +17,9 @@
 //  let $fullName = "abc";
 //  console.log($fullName);
 
+// 2. name cannot start with numbers and other special characters
 // let _ = 25;
 // console.log(_);
-
-// 2. name cannot start with numbers and other special characters
 // let person1 = "Salman";
 // console.log(123);
 
