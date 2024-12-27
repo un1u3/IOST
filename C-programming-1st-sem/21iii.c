@@ -11,7 +11,7 @@ int main() {
 
 		printf("%d\t", temp);
 
-		for (int j=5; j<i; j--) {
+		for (int j=5; j>i; j--) {
 			temp=temp+j;
 			printf("%d\t",temp);
 
