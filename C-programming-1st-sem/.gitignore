@@ -1,0 +1,33 @@
+# Ignore all files and directories in the .idea folder (JetBrains IDEs)
+.idea/
+
+# Ignore workspace or IDE-specific setting files
+*.iml
+*.ipr
+*.iws
+
+# Ignore log files
+*.log
+
+# Ignore JetBrains IDE-specific configuration files
+__pycache__/
+*.sw?
+*.suo
+*.user
+*.tmp
+*.userosscache
+*.ccls-cache/
+*.launch
+.idea_modules/
+*.class
+
+# Ignore Node.js dependencies if present (optional, for JavaScript/Node.js projects)
+node_modules/
+
+# Ignore build artifacts (C/C++ binaries, etc.)
+*.o
+*.out
+*.exe
+
+# macOS specific files
+.DS_Store
