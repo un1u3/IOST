@@ -7,7 +7,7 @@ Follow the instructions below to set up the project and run the code.
 First, fork this repository, and then clone it to your local system:
 ``` bash
 git clone https://github.com/YOUR-USERNAME/REPOSITORY-NAME.git
-cd JavaScript
+cd JavaScript/Basics
 ```
 Replace `YOUR-USERNAME` and `REPOSITORY-NAME` with your GitHub username and the repository name.
 ### 2. Install Node.js
