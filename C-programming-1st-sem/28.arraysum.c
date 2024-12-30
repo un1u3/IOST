@@ -1,4 +1,4 @@
-/*Write a program that defines a function that takes an array of integers as a parameter. 
+/* Write a program that defines a function that takes an array of integers as a parameter. 
 The function should print the sum of the elements in the array to the console. 
 Call the function with an array of your choice*/
 

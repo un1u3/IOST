@@ -1,4 +1,4 @@
-/*	Define a function named fact() to calculate factorial of a number n and
+/*Define a function named fact() to calculate factorial of a number n and
  then write a program that uses this function fact() to calculate combination and permutation.*/
 
 #include <stdio.h>

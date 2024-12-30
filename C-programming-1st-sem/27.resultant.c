@@ -1,4 +1,4 @@
-/*Write a program to read two matrices of order 3*2,
+/*Write a program to read two matrices of order 3*2, 
 add them and display the resultant matrix in matrix form*/
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-//⦁	Write a program to calculate sum of first 50 natural numbers using recursive function.
+//	Write a program to calculate sum of first 50 natural numbers using recursive function.
 #include <stdio.h>
 int sum(int);
 int main()

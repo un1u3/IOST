@@ -1,4 +1,4 @@
-//	Write a recursive function to general Fibonacci series
+//Write a recursive function to general Fibonacci series
 #include <stdio.h>
 
 int fibonacci(int n);

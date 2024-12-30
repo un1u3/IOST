@@ -1,4 +1,4 @@
-/* Write a program that asks the user to enter 5 integers and store them in an array.
+/*Write a program that asks the user to enter 5 integers and store them in an array.  
 Print the elements of the array in the console.*/
 #include<stdio.h>
 
