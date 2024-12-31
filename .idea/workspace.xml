@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f98cb130-aada-4698-a574-cce2cd1e1eda" name="Changes" comment="" />
+    <list default="true" id="f98cb130-aada-4698-a574-cce2cd1e1eda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +89,10 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Rust/Basics" />
+      <recent name="$PROJECT_DIR$/Rust" />
       <recent name="$PROJECT_DIR$/JavaScript" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/JavaScript/Basics" />
     </key>
   </component>
@@ -111,6 +116,9 @@
       <workItem from="1735090975767" duration="4145000" />
       <workItem from="1735147254601" duration="11000" />
       <workItem from="1735398036783" duration="1784000" />
+      <workItem from="1735400798184" duration="7096000" />
+      <workItem from="1735456660882" duration="661000" />
+      <workItem from="1735457329430" duration="5899000" />
     </task>
     <servers />
   </component>

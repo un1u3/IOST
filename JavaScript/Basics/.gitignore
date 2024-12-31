@@ -1,0 +1,49 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+.env.test
+.env.production
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (WebStorm, IntelliJ, etc.)
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+workspace.xml
+
+# Build output
+dist/
+build/
+*.out
+
+# Coverage directories
+coverage/
+
+# Test reports
+*.lcov
+
+# Ignore npm-debug and yarn-debug errors
+npm-debug.log*
+yarn-debug.log*
