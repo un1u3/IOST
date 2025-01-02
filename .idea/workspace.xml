@@ -13,7 +13,6 @@
       <change afterPath="$PROJECT_DIR$/JavaScript/Basics/javascript_loops.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JavaScript/Basics/javascript_objects_basics.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JavaScript/Basics/javascript_operators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,7 @@
       <workItem from="1735400798184" duration="7096000" />
       <workItem from="1735456660882" duration="661000" />
       <workItem from="1735457329430" duration="5899000" />
-      <workItem from="1735577369427" duration="1649000" />
+      <workItem from="1735577369427" duration="5813000" />
     </task>
     <servers />
   </component>
