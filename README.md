@@ -3,9 +3,6 @@
 <h3 align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=$+IOST,++Initiative for Open Source, ++ Technology&font=Fira%20Code&center=true&width=500&height=60&color=f75c7e&vCenter=true&pause=10&size=20" />
 
-
-<img src="https://readme-typing-svg.demolab.com/?lines=$+2025,++Happy Newyear, ++ 2025y&font=Fira%20Code&center=true&width=500&height=60&color=f75c7e&vCenter=true&pause=10&size=20" />
-
 </h3>
 
 ## About IOST
