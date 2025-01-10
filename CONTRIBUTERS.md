@@ -38,10 +38,16 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - **Joined**: December 2024
 
 ### **Bishal Adhikari**
-- **Role/Contribution**:Maintainer
+- **Role/Contribution**:
 - **GitHub**: [Bishal Adhikari](https://github.com/bishal2231)
 - **Batch/Year**: BIT 3rd Semester
 - **Joined**: December 2024
+
+### **Abhyudaya Pokhrel**
+- **Role/Contribution**:Maintainer
+- **GitHub**: [Abhyudaya Pokhrel](https://github.com/abhyudayapokhrel)
+- **Batch/Year**: Computer Engineering 1st Semester
+- **Joined**: January 2025
 
 ---
 
