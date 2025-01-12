@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f98cb130-aada-4698-a574-cce2cd1e1eda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/b.variables.and.constant.assignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/c.operator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/conditional_statements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/d.data.conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/functions_in_javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/javascript_data_types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/javascript_loops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/javascript_objects_basics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Basics/javascript_operators.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/JavaScript/Basics" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -73,7 +83,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;app.teamhub.selectedTeam&quot;: &quot;github.com/arunislive/IOST&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -119,6 +129,10 @@
       <workItem from="1735400798184" duration="7096000" />
       <workItem from="1735456660882" duration="661000" />
       <workItem from="1735457329430" duration="5899000" />
+      <workItem from="1735577369427" duration="5813000" />
+      <workItem from="1735834277964" duration="16645000" />
+      <workItem from="1736236395638" duration="1196000" />
+      <workItem from="1736320273038" duration="268000" />
     </task>
     <servers />
   </component>
