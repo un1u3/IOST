@@ -7,6 +7,8 @@
 
 ## About IOST
 
+
+
 IOST (Initiative for Open Source Technology) is a student-driven open-source community at ASCOL (Amrit Science Campus, Lainchur ) dedicated to learning, collaborating, and contributing to open-source technology.
 
 ### Our Mission 🎯
