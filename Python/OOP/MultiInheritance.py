@@ -1,0 +1,9 @@
+class Father():
+    ...
+    
+class Mother():
+    ...
+    
+class Daughter(Father,Mother):
+    ...
+    
