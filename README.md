@@ -104,6 +104,6 @@ Interested in supporting IOST?
 
 ---
 
-**Disclaimer**: This is a student-led initiative. All contributions and learning are collaborative efforts.
+**Disclaimer**: This is a student-led initiative. All contributions and learning are collaborative efforts:)
 
 *Powered by passion, fueled by innovation* 🚀
