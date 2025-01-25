@@ -1,29 +1,29 @@
-const print = (value) => {
-    console.log(value);
-};
-// operator => symbols which has certain operation
+// ?operator => symbols which has certain operation
 
-// arithmetic operator
-// +,-, *, /, **, %
+const print = (value) => {
+  console.log(value);
+};
+
+//? arithmetic operator
+//? +,-, *, /, **, %
 
 // let x = 2;
 // let y = 3;
 
+//? Addition +
 // let sum = x + y;
-
 // console.log(sum);
 
-// x+y => expression
-// x+y = 5 (equation)
+//! x+y             =>(expression)
+//! x+y = 5         =>(equation)
 
 // let a = 10;
 // let b = 5;
-
+//? Subtraction -
 // let sub = a - b;
-
 // print(sub);
 
-// multiple *
+//? multiple *
 
 // let a = 5;
 // let b = 6;
@@ -31,7 +31,7 @@ const print = (value) => {
 // let product = a * b;
 // print(product);
 
-// divide /
+//? divide /
 // let x = 25;
 // let y = 5;
 
@@ -39,7 +39,7 @@ const print = (value) => {
 
 // print(result);
 
-// ? power **
+//? power **
 // let a = 2;
 // let b = 3;
 
@@ -47,7 +47,7 @@ const print = (value) => {
 // let power = Math.pow(a, b);
 // console.log(power);
 
-// ? remainder
+//? remainder or modulo operator
 // let x = 15;
 // let y = 2;
 

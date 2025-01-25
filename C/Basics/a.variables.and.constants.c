@@ -19,7 +19,6 @@
 // 2. name cannot start with numbers and other special characters
 // let _ = 25;
 // console.log(_);
-
 // cha person1 = "Salman";
 // console.log(123);
 

@@ -6,11 +6,11 @@
 // console.log(typeof b);
 
 // let sth = "hello";
-// let x = Number(sth);//NaN
+// let x = Number(sth);         //NaN = not a number
 // console.log(typeof x);
 
 // NaN => Not a Number
-// ? numeric string can be converted to number type
+//? numeric string can be converted to number type
 // parseInt, Number, +
 // let x = "454";
 // let y = parseInt(x);
