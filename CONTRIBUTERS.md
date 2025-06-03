@@ -49,6 +49,11 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - **Batch/Year**: Computer Engineering 1st Semester
 - **Joined**: January 2025
 
+### **Aashish Kasalawat**
+- **Role/Contribution**:Contributers
+- **GitHub**: [Aashish Kasalawat](https://github.com/bardan-exe)
+- **Batch/Year**: BScIT 1st Semester
+- **Joined**: June 2025
 ---
 
 To add yourself as a contributor, please follow these steps:
