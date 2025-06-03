@@ -25,13 +25,13 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - **Joined**: December 2024
 
 ### *Krishna Neupane*
-- *Role/Contribution*:Maintainer
+- *Role/Contribution*:Cntributers
 - *GitHub*: 
 - *Batch/Year*: Senior Software Developer (7+ Years Experience)
 - *Joined*: December 2024
 
 ### **Dipesh B C**
-- **Role/Contribution**: Maintainer
+- **Role/Contribution**: Cntributers
 - **GitHub**: [Dipesh B C](https://github.com/bcdipesh)
 - **LinkedIn**: [Dipesh B C](https://www.linkedin.com/in/dipeshbc)
 - **Batch/Year**: Software Engineer (5+ Years Experience)
@@ -44,7 +44,7 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - **Joined**: December 2024
 
 ### **Abhyudaya Pokhrel**
-- **Role/Contribution**:Maintainer
+- **Role/Contribution**:Cntributers
 - **GitHub**: [Abhyudaya Pokhrel](https://github.com/abhyudayapokhrel)
 - **Batch/Year**: Computer Engineering 1st Semester
 - **Joined**: January 2025
